@@ -1,0 +1,48 @@
+﻿<HTML>
+<HEAD>
+<TITLE> เพื่อนสนิทของฉัน </TITLE>
+</HEAD>
+<BODY>
+<CENTER> <font face = "angsana new" size = "8" color = "blue"> เพื่อนสนิทของฉัน </font> </CENTER>
+<br>
+<TABLE width = "80%" height = "80%" BORDER = "2" align = "center" >
+<CAPTION> เพื่อนสนิทของฉัน </CAPTION>
+<TR>
+<TH> รูปเพื่อนของฉัน </TH>
+<TH> ชื่อเพื่อนของฉัน  </TH>
+</TR>
+
+<TR>
+<TH><IMG SRC = "แคน.jpg"></TH>
+<TH>นาย อรรถพันธ์ รอดทุกข์</TH>
+</TR>
+
+<TR>
+<TH><IMG SRC = "ก็อต.jpg"></TH>
+<TH>นายธนากร เปี่ยมระลึก</TH>
+</TR>
+
+<TR>
+<TH><IMG SRC = "เลาะ.jpg"></TH>
+<TH>นาย บัณฑิต เเพรชาย</TH>
+</TR>
+
+<html>
+<head>
+<title>ยินดีต้อนรับสู่เว็บไซต์ ศุภกิตติ์</title>
+
+<body>
+<TABLE BORDER = "2" width = "50%" height = "60%" align="center">
+<CAPTION> <b> <font size="10" face="angsana new">เพื่อนสนิทของฉัน</font> </b> </CAPTION
+<TABLE BORDER = "2" align="center">
+<CAPTION> <b> <font size="6" face="angsana new">เพื่อนสนิทของข้าพเจ้า</font> </b> </CAPTION>
+<TR> <TD width="30%" align="center"> ชื่อ-สกุล </TD> <TD width="30%" align="center"> ภาพถ่าย </TD> </TR>
+<TR> <TD align="center"> ธนากร เปี่ยมระลึก </TD> <TD align="center"> <IMG SRC="ก็อต.jpg"> </TD> </TR>
+<TR> <TD align="center"> คณิน วงษ์วิจารณ์ </TD> <TD align="center"> <IMG SRC="โจ.jpg"> </TD> </TR>
+<TR> <TD align="center"> บัณฑิต แพรชาย</TD> <TD align="center"> <IMG SRC="เลาะ.jpg"> </TD> </TR>
+<TR> <TD align="center"> อรรภพันธ์ รอดทุกข์  </TD> <TD align="center"> <IMG SRC="แคน.jpg"> </TD> </TR>
+<TR> <TD align="center"> ตันติกร ปื่นรัตน์</TD> <TD align="center"> <IMG SRC="โอ๊ค.jpg"> </TD> </TR>
+<TR> <TD align="center"> ธนภัทร คงเพ็ง</TD> <TD align="center"> <IMG SRC="ดอม2.jpg"> </TD> </TR>
+</TABLE>
+</BODY>
+</html>
